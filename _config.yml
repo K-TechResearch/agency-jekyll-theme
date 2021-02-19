@@ -3,62 +3,62 @@ baseurl: /homepage/
 
 # Site settings
 title: Kondo giken
-email: my@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+email: k8techresearch@gmail.com
+description: "3DCAD,CAEをメインに，製造業のDXをサポート。主にFusion360とOSS（オープンソースソフトウェア）を使い，大企業には出来ないスピード・新技術を活用できます"
 
 
 # Team names, titles and social links
 people:
-- name: kondo
+- name: Kondo
   pic: 1
-  position: Lead Designer
+  position: 個人事業主
   social:
-    - title: twitter
+    - title: github
       url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+#    - title: facebook
+#      url: #
+#    - title: stack-overflow
+#      url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+#- name: Larry Parker
+#  pic: 2
+#  position: Lead Marketer
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: linkedin
+#      url: #
+#
+#- name: Diana Petersen
+#  pic: 3
+#  position: Lead Developer
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: google-plus
+#      url: #s
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+#  - title: twitter
+#    url: http://twitter.com/jekyllrb
+#  - title: facebook
+#    url: 
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket 
+#    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/K-TechResearch
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Aichi-pref, Japan
+  - line: 他非公開
 
 # Build settings
 markdown: kramdown

@@ -1,3 +1,19 @@
+
+# Readme
+
+このリポジトリはhttps://y7kim.github.io/agency-jekyll-theme をフォークしています
+
+## 使い方
+
+- _config.yml に基本情報を入力
+- _posts内はPortfolioの内容
+- _includesは各セクションの内容
+- img内の画像をそれぞれ参照
+- _data/template.ymlで全体の色等をコントロール
+- cssは フォント設定
+
+# Original readme below
+
 Agency Jekyll theme
 ====================
 

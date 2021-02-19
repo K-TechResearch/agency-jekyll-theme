@@ -1,15 +1,15 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: 事務作業自動化
+subtitle: JavaScript,Python
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+date: 2021-02-19
+img: auto.png
+thumbnail: auto-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: ---
+client: ---
+category: programing
+description: 転記作業など細かい事務作業の自動化をしたくても，システムメーカーに断られた経験はないでしょうか？無料のオープンソースソフトウェアを中心に小さなプログラムも承ります。また，自主改善するための教育サポートも承ります。IT業界の特殊な難解な用語に私も苦しめられてきたので，共通言語で会話いたします。
 
 ---

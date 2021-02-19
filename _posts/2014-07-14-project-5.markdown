@@ -1,15 +1,15 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: UX Design
+subtitle: 未受託
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+date: 2021-02-19
+img: ux.png
+thumbnail: ux-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: ---
+client: ---
+category: prototyping
+description: UX（ユーザーエクスペリエンス）開発と聞くとクリエイティブ・IT業界を連想しますが，手法は高速に改善の本質＝ユーザーの求めているものを探る元来製造業のQC活動やトヨタ生産方式が起源です。IT業界と用語が異なり混乱しないよう，新製品の企画活動を承ります。
 
 ---

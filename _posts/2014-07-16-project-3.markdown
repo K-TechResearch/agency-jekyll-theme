@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: CAE構造解析
+subtitle: Fusion360
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+date: 2021-02-19
+img: cae.png
+thumbnail: cae-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: ---
+client: ---
+category: 3D
+description: Fusion360でCAEも承ります。基本的に構造解析ですが，期間頂ければ機能上熱解析，自動設計（ジェネネレーティブデザイン）も検討いたします。
 
 ---

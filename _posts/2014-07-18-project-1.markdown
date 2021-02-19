@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: 子供向けプログラミング講座
+subtitle: micro:bit
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+date: 2021-02-21
+img: prgsem.png
+thumbnail: prg-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: 2021-02
+client: 児童館(詳細非公開)
+category: education
+description: micro:bitを使用しプログラミングの基礎を1時間で実施。スライドはオープンソースでhttps://github.com/K-TechResearch/Programing_LV1 に公開
 
 ---
