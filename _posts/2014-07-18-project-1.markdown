@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2021-02-21
 img: prgsem.png
-thumbnail: prg-thumbnail.png
+thumbnail: prgsem-thumbnail.png
 alt: image-alt
 project-date: 2021-02
 client: 児童館(詳細非公開)
