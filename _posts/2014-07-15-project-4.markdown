@@ -1,6 +1,6 @@
 ---
 title: CAM/3D Print
-subtitle: 制作・試作
+subtitle: 未受託
 layout: default
 modal-id: 4
 date: 2021-02-19
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: ---
 client: ---
 category: prototyping
-description: Fusion360を使用したCAMデータ作成（加工機情報要）や，3Dプリントはデータ作成から承ります。加工依頼も外部設備利用ですが可能です。家庭用の簡易3Dプリンター（150*150mm）は保有しています。本業が生技なので，量産を考慮した試作検討を行います。
+description: Fusion360を使用したCAMデータ作成（加工機情報要）や，3Dプリントはデータ作成から承ります。加工依頼も外部設備利用により可能です。家庭用の簡易3Dプリンター（150*150mm）は保有しています。本業が生技なので，量産を考慮した試作検討を行います。
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: 3DCADモデリング受託
-subtitle: Fusion360
+subtitle: 未受託
 layout: default
 modal-id: 2
 date: 2021-02-19
