@@ -1,7 +1,9 @@
 
 # Readme
 
-このリポジトリはhttps://y7kim.github.io/agency-jekyll-theme をフォークしています
+- このリポジトリはhttps://y7kim.github.io/agency-jekyll-theme をフォークしています
+- 公開アドレス
+  - https://k-techresearch.github.io/homepage
 
 ## 使い方
 
